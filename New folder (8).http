@@ -1,0 +1,6 @@
+@New_folder__8__HostAddress = http://localhost:5261
+
+GET {{New_folder__8__HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
